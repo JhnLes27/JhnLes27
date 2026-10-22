@@ -8,7 +8,6 @@ I also use Docker for containerization and Figma when I need to wireframe my ide
 
 This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built or expounded upon already created ideas.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Toolbox 🧰
 ○ **C#**,**Python**,**Luau**
 
