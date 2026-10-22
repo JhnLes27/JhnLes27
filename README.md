@@ -12,5 +12,7 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 ## Toolbox 🧰
 ○ **C#**,**Python**,**Luau**
+
 ○ **React**,**Node.js**,**PostgreSQL**
+
 ○ **Docker**,**Figma**
